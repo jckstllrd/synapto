@@ -1,0 +1,28 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    margin: 0;
+}
+
+nav {
+    border: 1px solid black;
+}
+
+div.sidebar {
+    border: 1px solid black;
+}
+
+div.content {
+    border: 1px solid black;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+div.container {
+    display: flex;
+    
+}
